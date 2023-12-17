@@ -1,0 +1,21 @@
+{
+  "774127719": {
+    "is_auth": true,
+    "initials": "\u0420\u043e\u043c\u0430\u0437\u0430\u043d\u043e\u0432 \u041d\u0438\u043a\u0438\u0442\u0430 \u0414\u043c\u0438\u0442\u0440\u0438\u0435\u0432\u0438\u0447",
+    "id_obchaga": 1,
+    "id_room": 1,
+    "id_floor": 1,
+    "secret_code": 3985,
+    "email": "romazanov.n.d@edu.mirea.ru",
+    "password": "Nikita2004",
+    "cookies": {
+      "csrftoken": "BURyGRBa930LsmITm67K3dw5JJVw01oPbRUEskTNPFuvrDNrDO9lkUqJt2GqrFax",
+      "SERVERID": "n1",
+      "sessionid": "89iyro2i4jqxvmh4e6wiqtd7e2kevc0s",
+      "PHPSESSID": "2f965327f5265f4406464558e97e18a0",
+      "BITRIX_SM_UIDH": "36566a82dbf7e40ed531493ba3a92541",
+      "BITRIX_SM_UIDL": "romazanov.n.d%40edu.mirea.ru",
+      "BITRIX_SM_SOUND_LOGIN_PLAYED": "Y"
+    }
+  }
+}
