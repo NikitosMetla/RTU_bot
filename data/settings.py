@@ -4,7 +4,7 @@ from aiogram.fsm.storage.memory import MemoryStorage
 from aiogram.types import InlineKeyboardButton
 from aiogram.utils.keyboard import InlineKeyboardBuilder
 
-token = "6378983053:AAEx3n6CE1K_XUk9ApWsDXikJLp61gLCCGA"
+token = ""
 storage = MemoryStorage()
 
 
@@ -53,7 +53,7 @@ class InputMessage(StatesGroup):
     enter_comment_request = State()
 
 
-develop_ids = [774127719, 123456789]
-moderators = [774127719]
+develop_ids = []
+moderators = []
 
-comendant_ids = {1: {123123: 774127719}}
+comendant_ids = {1: {}}
